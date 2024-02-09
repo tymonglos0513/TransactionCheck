@@ -1,15 +1,12 @@
 .transaction-list {
-
-}
-
-.rewards {
-
+    border-top: 1px solid black;
+    font-size: 20px;
 }
 
 .loading {
-
+    color: green;
 }
 
 .error {
-    
+    color: red;
 }
